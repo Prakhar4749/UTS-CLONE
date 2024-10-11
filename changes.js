@@ -1,8 +1,8 @@
 let fare =  256;
 let source = "DR AMBEDKAR NGR";
 let source_hindi = "डॉ अंबेडकर नगर";
-let destination = "S.HIRDARAM";
-let destination_hindi = "";
+let destination = "S.HIRDARAMnagar";
+let destination_hindi = "संत हिरदाराम नगर";
 let via = "indb-ujn";
 let adult = 2;
 let child = 0;
